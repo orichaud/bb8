@@ -1,3 +1,6 @@
+Git:
+* [https://github.com/orichaud/bb8](https://github.com/orichaud/bb8)
+
 Install or NPM modules:
 ```sh
 npm -g install cylon
